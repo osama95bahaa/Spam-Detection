@@ -7,3 +7,5 @@ The project is divided into 3 parts:
 - In the second part I used classifiers from sklearn to predict whether an email is ham or spam
 - The third part is extracting different features and then testing using different classifiers.
 
+
+To run the code, unzip the zipped file and then put the emails folder in the same directory as the python code directory.
